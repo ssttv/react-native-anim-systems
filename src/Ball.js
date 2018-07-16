@@ -16,3 +16,5 @@ const styles = StyleSheet.create({
     borderColor: "black"
   }
 });
+
+export default Ball;
